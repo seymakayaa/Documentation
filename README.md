@@ -1,23 +1,10 @@
 # About Git
-### Git = Version Control System
----
-With Git, we can take copies of versions at every step of the project, later revert to these versions when needed, and make corrections.
----
-
-
-### Why We Need to Git
----
-- Risk mitigation
-- Tracking the changes and updates
-- Allowing to work collaboratively
-
-# About Git
 
 ### Git = Version control System
 
 ---
 
-Git sayesinde projenin her adımındaki versiyonların kopyalarını alabiliriz, sonrasında ihtiyacımız olduğunda versiyonlara tekrar dönebiliriz ve düzeltmeler yapabiliriz.
+With Git, we can take copies of versions at every step of the project, later revert to these versions when needed, and make corrections.
 
 ---
 
@@ -31,3 +18,4 @@ Git sayesinde projenin her adımındaki versiyonların kopyalarını alabiliriz,
 * Tracking the changes and updates
 * Allowing to work collaboratively
 
+[git website](https://git-scm.com/about)
