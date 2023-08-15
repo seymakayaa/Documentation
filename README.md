@@ -10,3 +10,27 @@ With Git, we can take copies of versions at every step of the project, later rev
 - Risk mitigation
 - Tracking the changes and updates
 - Allowing to work collaboratively
+
+
+
+
+# About Git
+
+### Git = Version control System
+
+---
+
+Git sayesinde projenin her adımındaki versiyonların kopyalarını alabiliriz, sonrasında ihtiyacımız olduğunda versiyonlara tekrar dönebiliriz ve düzeltmeler yapabiliriz.
+
+---
+
+
+
+### Why we need to Git
+
+---
+
+* Risk mitigation
+* Tracking the changes and updates
+* Allowing to work collaboratively
+
