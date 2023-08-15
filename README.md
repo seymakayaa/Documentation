@@ -25,12 +25,15 @@ With Git, we can take copies of versions at every step of the project, later rev
 
 
 
+
 # About Github
 
 
 ---
 
+
  Github is a platform and cloud-based service for software development and version control using Git.
+
 
 ---
 
