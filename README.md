@@ -11,9 +11,6 @@ With Git, we can take copies of versions at every step of the project, later rev
 - Tracking the changes and updates
 - Allowing to work collaboratively
 
-
-
-
 # About Git
 
 ### Git = Version control System
