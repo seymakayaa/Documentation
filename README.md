@@ -2,7 +2,7 @@
 
 ### Git = Version Control System
 
----
+
 
 With Git, we can take copies of versions at every step of the project, later revert to these versions when needed, and make corrections.
 
@@ -12,7 +12,7 @@ With Git, we can take copies of versions at every step of the project, later rev
 
 ### Why We Need to Git
 
----
+
 
 * Risk mitigation
 * Tracking the changes and updates
@@ -30,18 +30,16 @@ With Git, we can take copies of versions at every step of the project, later rev
 # About Github
 
 
----
+
 
 
  Github is a platform and cloud-based service for software development and version control using Git.
 
 
----
-
 
 ### Github Features
 
----
+
 
 - Repositories: store your code and project files.
 - Branches: work on separate features or changes independently.
@@ -55,5 +53,4 @@ With Git, we can take copies of versions at every step of the project, later rev
 
  [Github Website Link](https://docs.github.com/en) --> More Information
 
- ---
- 
+
