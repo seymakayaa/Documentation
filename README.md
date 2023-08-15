@@ -21,14 +21,6 @@ With Git, we can take copies of versions at every step of the project, later rev
 
 [Git Website Link](https://git-scm.com/about) --> More Information
 
----
-
-
-
-
-
-
-
 
 # About Github
 
