@@ -10,7 +10,7 @@ With Git, we can take copies of versions at every step of the project, later rev
 
 
 
-### Why we need to Git
+### Why We Need to Git
 
 ---
 
@@ -18,4 +18,4 @@ With Git, we can take copies of versions at every step of the project, later rev
 * Tracking the changes and updates
 * Allowing to work collaboratively
 
-[Git Website Link](https://git-scm.com/about)
+[Git Website Link](https://git-scm.com/about) --> More Information
