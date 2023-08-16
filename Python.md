@@ -26,7 +26,7 @@
   ​    print("hello")
 ```
 
-- ```python
+-  ```python
   x = "awesome"
   def myfunc():
       x = "fantastic"  # When we define a variable inside a function, it's only valid within that function and not outside it
