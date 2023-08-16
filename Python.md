@@ -92,7 +92,7 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
 	print(i)
 ```
 
-- Float can also be scientific numbers with an "e/E" to indicate the power of 10.
+- Float can also be scientific numbers with an ```e/E``` to indicate the power of 10.
 - Python does not have a random() function to make a random number, but Python has a built-in module called random that can be used to make random numbers.
 
 
