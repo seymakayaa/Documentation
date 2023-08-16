@@ -135,10 +135,11 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
 - ```split() method```--> used to split the elements in a string. (list)
 - ```format() method```--> demonstrates the usage of the format() method to fill a placeholder {} in a string with a specified value.
   ```python
-  age = 21
+  year = 21
   myAge = 8
-  txt = "This is the {1}st century. I will {0}."
-  print(txt.format(myAge,age))
+  str = it
+  txt = "This is the {2}st century. I will {0}. How is {1}?"
+  print(txt.format(myAge,str,year))
   ```
 
 
