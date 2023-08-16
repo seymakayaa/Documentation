@@ -65,3 +65,26 @@ __Data Types__
   - Boolean Type: __bool__,  x = True
   - Binary Types: __bytes__, __bytearray__, __memoryview__, x = b"Hello" bytes, x = bytearray(5), x =            memoryview(bytes(5))
   - None Type: __NoneType__, x = None
+  
+- Tuples are similar to lists but with one key difference: once a tuple is created, its elements cannot be modified, added, or removed. Each element within a tuple is referred to as an "__item__".
+  
+- Range type usually use 3 way:
+
+ 1. One Parameter:
+    ​	for i in range(5):
+       	print(i)
+
+ 2. Two Parameter:
+    ​	for i in range(2, 8):  #2 is __start__ and 8 is __stop__
+    ​		print(i)
+
+3. Three Parameters:
+       for i in range(1, 10, 2):  #1 is __start__, 10 is __stop__, 2 is __step__
+         print(i)
+
+
+
+
+
+
+
