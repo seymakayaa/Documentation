@@ -225,7 +225,7 @@ zfill()	Fills the string with a specified number of 0 values at the beginning
   mylist = thislist.copy() # or mylist = list(thislist)
   print(mylist)
 ```
----
+----------------
 
 ### Summary List Methods
 
