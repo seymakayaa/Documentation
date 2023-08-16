@@ -120,9 +120,9 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
 ```
 
 - ```Slicing``` b = "Hello world!"
- 	  b[2:5] --> llo
-  	  b[:5]  --> Hello
-  	  b[2:]  --> llo world! 
+ 	  1. b[2:5] --> llo
+  	  2. b[:5]  --> Hello
+  	  3. b[2:]  --> llo world! 
 
 
 
