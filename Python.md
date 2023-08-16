@@ -124,13 +124,22 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
   	  b[:5]  --> Hello , 
   	  b[2:]  --> llo world! 
 
-- The ```upper() method``` returns the string in upper case
+- The ```upper() method``` returns the string in upper case and ```lower() method```returns the string in lower case.
   ```python
   a = " string in upper"
   print(a.upper())  # output: STRING IN UPPER
   ```
 
-- 
+- ```strip() method``` --> removes any whitespace from the beginning or the end.
+- ```replace() method```--> replaces a string with another string.
+- ```split() method```--> used to split the elements in a string. (list)
+
+
+
+
+
+
+  
 
 
 
