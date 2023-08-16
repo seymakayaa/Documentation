@@ -133,7 +133,12 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
 - ```strip() method``` --> removes any whitespace from the beginning or the end.
 - ```replace() method```--> replaces a string with another string.
 - ```split() method```--> used to split the elements in a string. (list)
-
+- ```format() method```--> demonstrates the usage of the format() method to fill a placeholder {} in a string with a specified value.
+  ```python
+  age = 21
+  txt = "This is {}. century."
+  print(txt.format(age))
+  ```
 
 
 
