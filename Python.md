@@ -227,7 +227,7 @@ zfill()	Fills the string with a specified number of 0 values at the beginning
 
 
 
-Summary List Methods
+__Summary List Methods__
 1. ```append()``` --> Adds an element at the end of the list
 2. ```clear()``` --> Removes all the elements from the list
 3. ```copy()``` --> Returns a copy of the list
