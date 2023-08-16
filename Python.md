@@ -101,9 +101,28 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
 - Get the charachter of a position n:
 ```python
   	x = "Hello world"
-  		print(x[1])
+  		print(x[1])  # output:e
 ```
- 
+
+- Loop through the letters in the word:
+  ```python
+  	for x in "banana":
+  		print(x)     
+  ```
+
+- To check if a certain phrase or character is present in a string, we can use the keyword ```in```.
+  To check if a certain phrase or character is NOT present in a string, we can use the keyword ```not in```.
+
+
+ ```python
+	txt = "Hello World!"
+	print("Hello" in txt)
+```
+
+- ```Slicing``` b = "Hello world!"
+ 	  b[2:5] --> llo
+  	  b[:5]  --> Hello
+  	  b[2:]  --> llo world! 
 
 
 
