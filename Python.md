@@ -2,7 +2,7 @@
 
 - For a comment placed on one line use ```#```, more than one line use ```""" """``` or ```''' '''```.
 
-- We learn to data type of variable with ```type( )``` function.
+- We learn to data type of variable with ```type()``` function.
 
 - String variables can be shown:
 ```
