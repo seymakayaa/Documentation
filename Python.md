@@ -226,9 +226,8 @@ zfill()	Fills the string with a specified number of 0 values at the beginning
   print(mylist)
 ```
 
-- Adding list to a list or concatenating lists. --> ```+ operator```or extend(), apend().
 
-## Summary List Methods
+Summary List Methods
 Method	Description
 append()	Adds an element at the end of the list
 clear()	Removes all the elements from the list
