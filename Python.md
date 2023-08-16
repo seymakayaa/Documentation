@@ -136,8 +136,9 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
 - ```format() method```--> demonstrates the usage of the format() method to fill a placeholder {} in a string with a specified value.
   ```python
   age = 21
-  txt = "This is {}. century."
-  print(txt.format(age))
+  myAge = 8
+  txt = "This is the {}st century. I will {}."
+  print(txt.format(age,myAge))
   ```
 
 
