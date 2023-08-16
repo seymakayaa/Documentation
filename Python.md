@@ -18,41 +18,40 @@
    * case-sensitive.
    * cannot be any of the python keywords.
 
-- Camel Case : myVariableName, Pascal Case: MyVariableName, Snake Case: my_variable_name
+- Camel Case : ```myVariableName```, Pascal Case: ```MyVariableName```, Snake Case: ```my_variable_name```
 
 - Since Python does not have the concept of {}, indentation becomes crucial, and 4 spaces or 1 tab is used. For example:
+```python
+  ​if x > y:
+  ​    print("hello")
+```
 
-  ​	if x > y:
-  ​    	print("hello")
-
-- x = "awesome"
-
+- ```python
+  x = "awesome"
   def myfunc():
       x = "fantastic"  # When we define a variable inside a function, it's only valid within that function and not outside it
       print("Python is " + x)
-
   myfunc()
   print("Python is " + x)
+```
 
 - global( ) function exp:
-
+```python
   x = "awesome"
-
   def myfunc():
       global x   # When a variable is defined as global, its value becomes globally accepted, whether inside or outside the function.
       x = "fantastic"
-
   myfunc()
   print("Python is " + x)
+```
 
 - s = b'ankara' ---> Converts the variable to bytes.
 
-- The expression "10+20" is death code, don't impact anything in program.
+- The expression "10+20" is ```death code```, don't impact anything in program.
 
 - Compilers perform better code optimization than interpreters.
 
 - print(r"kale\n")  r is regular. 
-
   ​	>>> kale\n
   
 __Data Types__
