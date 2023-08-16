@@ -55,7 +55,7 @@
 
   ​	>>> kale\n
   
-** Data Types **
+__Data Types__
 
   - Text Type: __str__ , x = "Hello"
   - Numeric Types: __int__, __float__, __complex__, x = 20(int), x = 20.5(float), x = 1j(complex)
