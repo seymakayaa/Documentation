@@ -24,6 +24,7 @@ With Git, we can take copies of versions at every step of the project, later rev
 
 
 ### Git Command
+```
 - git add [file-name.txt]: Add a file to the staging area
 - git add -A: Add all new and changed files to the staging area
 - git branch: List branches
@@ -51,6 +52,6 @@ With Git, we can take copies of versions at every step of the project, later rev
 - git status: Check status
 - git stash: Stash changes in a dirty working directory
 - git stash clear: Remove all stashed entries
-
+```
 
 ---
