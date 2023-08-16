@@ -70,15 +70,15 @@ __Data Types__
   
 - Range type usually use 3 way:
 
- 1. One Parameter:
+   1. One Parameter:
     ​	for i in range(5):
        	print(i)
 
- 2. Two Parameter:
+   2. Two Parameter:
     ​	for i in range(2, 8):  #2 is __start__ and 8 is __stop__
     ​		print(i)
 
-3. Three Parameters:
+   3. Three Parameters:
        for i in range(1, 10, 2):  #1 is __start__, 10 is __stop__, 2 is __step__
          print(i)
 
