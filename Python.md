@@ -58,14 +58,14 @@
   
 __Data Types__
 
-  - Text Type: __str__ , x = "Hello"
-  - Numeric Types: __int__, __float__, __complex__, x = 20(int), x = 20.5(float), x = 1j(complex)
-  - Sequence Types: __list__, __tuple__, __range__, x = ["apple", "banana", "cherry"] list, x = ("apple",       "banana", "cherry") tuple, x = range(6) 
-  - Mapping Types: __dict__,  x = {"name" : "John", "age" : 36}
-  - Set Types: __set__, __frozenset__, x = {"apple", "banana", "cherry"} set, x = frozenset({"apple",           "banana", "cherry"}) frozen set
-  - Boolean Type: __bool__,  x = True
-  - Binary Types: __bytes__, __bytearray__, __memoryview__, x = b"Hello" bytes, x = bytearray(5), x =            memoryview(bytes(5))
-  - None Type: __NoneType__, x = None
+  - ```Text Type:``` __str__ , x = "Hello"
+  - ```Numeric Types:``` __int__, __float__, __complex__, x = 20(int), x = 20.5(float), x = 1j(complex)
+  - ```Sequence Types:``` __list__, __tuple__, __range__, x = ["apple", "banana", "cherry"] list, x = ("apple",       "banana", "cherry") tuple, x = range(6) 
+  - ```Mapping Types:``` __dict__,  x = {"name" : "John", "age" : 36}
+  - ```Set Types:``` __set__, __frozenset__, x = {"apple", "banana", "cherry"} set, x = frozenset({"apple",           "banana", "cherry"}) frozen set
+  - ```Boolean Type:``` __bool__,  x = True
+  - ```Binary Types:``` __bytes__, __bytearray__, __memoryview__, x = b"Hello" bytes, x = bytearray(5), x =            memoryview(bytes(5))
+  - ```None Type:``` __NoneType__, x = None
   
 - Tuples are similar to lists but with one key difference: once a tuple is created, its elements cannot be modified, added, or removed. Each element within a tuple is referred to as an "__item__".
   
