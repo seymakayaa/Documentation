@@ -21,12 +21,14 @@
 - Camel Case : ```myVariableName```, Pascal Case: ```MyVariableName```, Snake Case: ```my_variable_name```
 
 - Since Python does not have the concept of {}, indentation becomes crucial, and 4 spaces or 1 tab is used. For example:
+
 ```python
   ​if x > y:
   ​    print("hello")
 ```
 
--  ```python
+-
+```python
   x = "awesome"
   def myfunc():
       x = "fantastic"  # When we define a variable inside a function, it's only valid within that function and not outside it
