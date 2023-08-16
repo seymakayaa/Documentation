@@ -5,9 +5,9 @@
 - We learn to data type of variable with type( ) function.
 
 - String variables can be shown:
-
+```
   ​	x = 'Alice' or x = "Alice"
-
+```
 - Variable names is case-sensitive. a and A are not the same.
 
 - Variable names rules
