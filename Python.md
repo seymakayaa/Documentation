@@ -200,4 +200,44 @@ zfill()	Fills the string with a specified number of 0 values at the beginning
 	- ```Identity operators``` (is, is not)
 	- ```Membership operators``` (in, not in)
 	- ```Bitwise operators``` (&, |, ^, ~, >>, <<)
+ - To insert a new list item, without replacing any of the existing values, we can use the ```insert() method```.
+   ```python
+   thislist = ["apple", "banana", "cherry"]
+   thislist.insert(2, "watermelon")
+   print(thislist)
+   ```
 
+- To add an item to the end of the list, use the ```append() method```.
+- To append elements from another list to the current list, use the ```extend() method```.
+- The ```remove() method``` removes the specified item.
+- The ```pop() method``` removes the specified index. If you do not specify the index, the pop() method removes the last item.
+- The del keyword also removes the specified index.
+  ```python
+  thislist = ["apple", "banana", "cherry"]
+  del thislist[0]
+  print(thislist)
+  ```
+- The clear() method empties the list.
+- List objects have a ```sort() method``` that will sort the list alphanumerically.
+- Lists cannot be directly copied using list2 = list1. The ```copy() method``` or ```list()``` are used for copying.
+  ```python
+  thislist = ["a", "b", "c"]
+  mylist = thislist.copy() # or mylist = list(thislist)
+  print(mylist)
+```
+
+- Adding list to a list or concatenating lists. --> ```+ operator```or extend(), apend().
+
+## Summary List Methods
+Method	Description
+append()	Adds an element at the end of the list
+clear()	Removes all the elements from the list
+copy()	Returns a copy of the list
+count()	Returns the number of elements with the specified value
+extend()	Add the elements of a list (or any iterable), to the end of the current list
+index()	Returns the index of the first element with the specified value
+insert()	Adds an element at the specified position
+pop()	Removes the element at the specified position
+remove()	Removes the item with the specified value
+reverse()	Reverses the order of the list
+sort()	Sorts the list
