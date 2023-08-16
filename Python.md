@@ -225,9 +225,10 @@ zfill()	Fills the string with a specified number of 0 values at the beginning
   mylist = thislist.copy() # or mylist = list(thislist)
   print(mylist)
 ```
+---
 
+### Summary List Methods
 
-Summary List Methods
 Method	Description
 append()	Adds an element at the end of the list
 clear()	Removes all the elements from the list
