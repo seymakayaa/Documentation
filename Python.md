@@ -137,8 +137,8 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
   ```python
   age = 21
   myAge = 8
-  txt = "This is the {}st century. I will {}."
-  print(txt.format(age,myAge))
+  txt = "This is the {1}st century. I will {0}."
+  print(txt.format(myAge,age))
   ```
 
 
