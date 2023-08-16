@@ -144,9 +144,9 @@ for i in range(2, 10, 3):  #2 is start, 10 is stop, 3 is step
 
 ```
 __Method__	__Description__
-```capitalize()```	Converts the first character to upper case
-```casefold()```	Converts string into lower case
-```center()```	Returns a centered string
+capitalize()	Converts the first character to upper case
+casefold()	Converts string into lower case
+center()	Returns a centered string
 count()	Returns the number of times a specified value occurs in a string
 encode()	Returns an encoded version of the string
 endswith()	Returns true if the string ends with the specified value
@@ -189,6 +189,6 @@ title()	Converts the first character of each word to upper case
 translate()	Returns a translated string
 upper()	Converts a string into upper case
 zfill()	Fills the string with a specified number of 0 values at the beginning
-
+```
 
 
