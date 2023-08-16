@@ -193,11 +193,11 @@ zfill()	Fills the string with a specified number of 0 values at the beginning
 
 
 - Python Operators
-	-```Arithmetic operators``` (+, -, *, /, %, **, //)
-	-```Assignment operators``` (=, +=, -=, *=, /=, %=,**=, //=, &=, |=, ^=, >>=, <<=)
-	-```Comparison operators``` (==, !=, <=, >=, <, >)
-	-```Logical operators``` (and, or, not)
-	-```Identity operators``` (is, is not)
-	-```Membership operators``` (in, not in)
-	-```Bitwise operators``` (&, |, ^, ~, >>, <<)
+- ```Arithmetic operators``` (+, -, *, /, %, **, //)
+-```Assignment operators``` (=, +=, -=, *=, /=, %=,**=, //=, &=, |=, ^=, >>=, <<=)
+-```Comparison operators``` (==, !=, <=, >=, <, >)
+-```Logical operators``` (and, or, not)
+-```Identity operators``` (is, is not)
+-```Membership operators``` (in, not in)
+-```Bitwise operators``` (&, |, ^, ~, >>, <<)
 
